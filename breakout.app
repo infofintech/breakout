@@ -1,1 +1,1 @@
-Breakout=||=breakout.icon.png=||=window.location.href='breakout.htm';
+Breakout|[1]|breakout.icon.png|[1]|window.location.href='breakout.htm';
