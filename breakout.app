@@ -1,1 +1,0 @@
-Breakout|[1]|sys.breakout.png|[1]|window.location.href='breakout.htm';
